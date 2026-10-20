@@ -1,0 +1,227 @@
+country_key,country,region,continent,import_sales_usd_country_2025_2026
+1,AFGHANISTAN,South Asia,Asia,654.22
+2,ALBANIA,Other European Countries,Europe,4.78
+3,ALGERIA,North Africa,Africa,358.65
+4,AMERI SAMOA,Unspecified Region,Unspecified Region,0.01
+5,ANDORRA,Unspecified Region,Unspecified Region,0.25
+6,ANGOLA,Other South African Countries,Africa,4862.8
+7,ANGUILLA,Unspecified Region,Unspecified Region,0.04
+8,ANTARTICA,Unspecified Region,Unspecified Region,1.58
+9,ANTIGUA,Latin America,America,0.16
+10,ARGENTINA,Latin America,America,4955.01
+11,ARMENIA,Other CIS Countries,Asia,102.26
+12,ARUBA,Unspecified Region,Unspecified Region,1.26
+13,AUSTRALIA,East Asia (Oceania),Asia,13810.35
+14,AUSTRIA,EU Countries,Europe,1041.66
+15,AZERBAIJAN,Other CIS Countries,Asia,1.84
+16,BAHAMAS,Latin America,America,7.42
+17,BAHARAIN IS,West Asia- GCC,Asia,887.76
+18,BANGLADESH PR,South Asia,Asia,1780.17
+19,BARBADOS,Latin America,America,1.07
+20,BELARUS,Other CIS Countries,Asia,52.23
+21,BELGIUM,EU Countries,Europe,6408.62
+22,BELIZE,Latin America,America,1.22
+23,BENIN,West Africa,Africa,113
+24,BERMUDA,Latin America,America,0.01
+25,BHUTAN,South Asia,Asia,820.51
+26,BOLIVIA,Latin America,America,1257.81
+27,BOSNIA-HRZGOVIN,Other European Countries,Europe,2.67
+28,BOTSWANA,Southern African Customs Union (SACU),Africa,446.47
+29,BR VIRGN IS,Latin America,America,2.06
+30,BRAZIL,Latin America,America,8050.43
+31,BRUNEI,ASEAN,Asia,299.18
+32,BULGARIA,EU Countries,Europe,167.06
+33,BURKINA FASO,West Africa,Africa,434.07
+34,BURUNDI,Central Africa,Africa,1.02
+35,C AFRI REP,Central Africa,Africa,0.3
+36,CAMBODIA,ASEAN,Asia,126.51
+37,CAMEROON,West Africa,Africa,225.95
+38,CANADA,North America,America,3284.82
+39,CAPE VERDE IS,West Africa,Africa,5.27
+40,CAYMAN IS,Latin America,America,0.05
+41,CHAD,Central Africa,Africa,21.23
+42,CHILE,Latin America,America,5034.87
+43,CHINA P RP,NE Asia,Asia,131620.29
+44,CHRISTMAS IS.,Unspecified Region,Unspecified Region,0
+45,COCOS IS,Unspecified Region,Unspecified Region,0
+46,COLOMBIA,Latin America,America,2902.76
+47,COMOROS,East Africa,Africa,40.34
+48,CONGO D. REP.,Central Africa,Africa,215.76
+49,CONGO P REP,West Africa,Africa,645.04
+50,COOK IS,Unspecified Region,Unspecified Region,0.03
+51,COSTA RICA,Latin America,America,141.43
+52,COTE D' IVOIRE,West Africa,Africa,621.03
+53,CROATIA,EU Countries,Europe,76.28
+54,CUBA,Latin America,America,5.52
+55,CYPRUS,EU Countries,Europe,66.53
+56,CZECH REPUBLIC,EU Countries,Europe,814.08
+57,DENMARK,EU Countries,Europe,931.82
+58,DJIBOUTI,East Africa,Africa,21.42
+59,DOMINIC REP,Latin America,America,1644.42
+60,DOMINICA,Latin America,America,0.2
+61,ECUADOR,Latin America,America,126.74
+62,EGYPT A RP,North Africa,Africa,2603.24
+63,EL SALVADOR,Latin America,America,3.9
+64,EQUTL GUINEA,West Africa,Africa,129.46
+65,ESTONIA,EU Countries,Europe,110.02
+66,ETHIOPIA,East Africa,Africa,248.51
+67,FAROE IS.,Unspecified Region,Unspecified Region,0
+68,FIJI IS,East Asia (Oceania),Asia,2.56
+69,FINLAND,EU Countries,Europe,1139.61
+70,FR GUIANA,Latin America,America,1.06
+71,FR POLYNESIA,Unspecified Region,Unspecified Region,0.82
+72,FRANCE,EU Countries,Europe,8668.91
+73,GABON,West Africa,Africa,811.99
+74,GAMBIA,West Africa,Africa,69.23
+75,GEORGIA,Other CIS Countries,Asia,87.02
+76,GERMANY,EU Countries,Europe,19478.6
+77,GHANA,West Africa,Africa,6680.07
+78,GIBRALTAR,Unspecified Region,Unspecified Region,0
+79,GREECE,EU Countries,Europe,212.2
+80,GREENLAND,Unspecified Region,Unspecified Region,0.01
+81,GRENADA,Latin America,America,0.74
+82,GUADELOUPE,Latin America,America,1.56
+83,GUAM,Unspecified Region,Unspecified Region,0
+84,GUATEMALA,Latin America,America,51.92
+85,GUINEA,West Africa,Africa,1472.08
+86,GUINEA BISSAU,West Africa,Africa,265.33
+87,GUYANA,Latin America,America,278.13
+88,HAITI,Latin America,America,16.45
+89,HEARD MACDONALD,Unspecified Region,Unspecified Region,0
+90,HONDURAS,Latin America,America,83.04
+91,HONG KONG,NE Asia,Asia,24324.37
+92,HUNGARY,EU Countries,Europe,1700.54
+93,ICELAND,European Free Trade Associatipn (EFTA),Europe,3.3
+94,INDONESIA,ASEAN,Asia,20291.68
+95,IRAN,Other West Asia,Asia,375.46
+96,IRAQ,Other West Asia,Asia,24558.5
+97,IRELAND,EU Countries,Europe,6119.22
+98,ISRAEL,Other West Asia,Asia,1666.24
+99,ITALY,EU Countries,Europe,6627.69
+100,JAMAICA,Latin America,America,3.55
+101,JAPAN,NE Asia,Asia,21436.31
+102,JORDAN,Other West Asia,Asia,1877.24
+103,KAZAKHSTAN,CARs Countries,Asia,81.65
+104,KENYA,East Africa,Africa,296.17
+105,KIRIBATI REP,East Asia (Oceania),Asia,0
+106,KOREA RP,NE Asia,Asia,21352.19
+107,KUWAIT,West Asia- GCC,Asia,7917.44
+108,KYRGHYZSTAN,CARs Countries,Asia,13.89
+109,LAO PD RP,ASEAN,Asia,71.51
+110,LATVIA,EU Countries,Europe,164.05
+111,LEBANON,Other West Asia,Asia,87.36
+112,LESOTHO,Southern African Customs Union (SACU),Africa,0.14
+113,LIBERIA,West Africa,Africa,44.91
+114,LIBYA,North Africa,Africa,630.64
+115,LIECHTENSTEIN,European Free Trade Associatipn (EFTA),Europe,2.76
+116,LITHUANIA,EU Countries,Europe,271.95
+117,LUXEMBOURG,EU Countries,Europe,110.09
+118,MACAO,NE Asia,Asia,9.62
+119,MACEDONIA,Other European Countries,Europe,1.36
+120,MADAGASCAR,East Africa,Africa,185.34
+121,MALAWI,Central Africa,Africa,41.85
+122,MALAYSIA,ASEAN,Asia,14174.19
+123,MALDIVES,South Asia,Asia,313.04
+124,MALI,West Africa,Africa,198.12
+125,MALTA,EU Countries,Europe,43.87
+126,MARSHALL ISLAND,Unspecified Region,Unspecified Region,3.16
+127,MARTINIQUE,Latin America,America,1.17
+128,MAURITANIA,West Africa,Africa,67.39
+129,MAURITIUS,East Africa,Africa,98.98
+130,MAYOTTE,Unspecified Region,Unspecified Region,2.01
+131,MEXICO,North America,America,2106.15
+132,MICRONESIA,Unspecified Region,Unspecified Region,0
+133,MOLDOVA,Other CIS Countries,Asia,0.31
+134,MONACO,Unspecified Region,Unspecified Region,2.5
+135,MONGOLIA,NE Asia,Asia,1.13
+136,MONTENEGRO,Other European Countries,Europe,1.52
+137,MOROCCO,North Africa,Africa,2896.86
+138,MOZAMBIQUE,Other South African Countries,Africa,2289.46
+139,MYANMAR,ASEAN,Asia,1149.41
+140,N. MARIANA IS.,Unspecified Region,Unspecified Region,0.37
+141,NAMIBIA,Southern African Customs Union (SACU),Africa,243.85
+142,NAURU RP,East Asia (Oceania),Asia,1.81
+143,NEPAL,South Asia,Asia,1942.1
+144,NETHERLAND,EU Countries,Europe,5760.49
+145,NETHERLANDANTIL,Latin America,America,4.55
+146,NEW CALEDONIA,Unspecified Region,Unspecified Region,29.63
+147,NEW ZEALAND,East Asia (Oceania),Asia,589.1
+148,NICARAGUA,Latin America,America,5.91
+149,NIGER,West Africa,Africa,71.89
+150,NIGERIA,West Africa,Africa,5895.84
+151,NORFOLK IS,Unspecified Region,Unspecified Region,0.24
+152,NORWAY,European Free Trade Associatipn (EFTA),Europe,635.29
+153,OMAN,West Asia- GCC,Asia,7166.22
+154,PAKISTAN IR,South Asia,Asia,0.07
+155,PANAMA REPUBLIC,Latin America,America,242.4
+156,PAPUA N GNA,East Asia (Oceania),Asia,616.31
+157,PARAGUAY,Latin America,America,26.26
+158,PERU,Latin America,America,8870.46
+159,PHILIPPINES,ASEAN,Asia,1568.38
+160,PITCAIRN IS.,Unspecified Region,Unspecified Region,0
+161,POLAND,EU Countries,Europe,1250.16
+162,PORTUGAL,EU Countries,Europe,197.92
+163,PUERTO RICO,Unspecified Region,Unspecified Region,163.17
+164,QATAR,West Asia- GCC,Asia,12292.6
+165,REUNION,East Africa,Africa,29.14
+166,ROMANIA,EU Countries,Europe,250.7
+167,RUSSIA,Other CIS Countries,Asia,55363.11
+168,RWANDA,Central Africa,Africa,11.73
+169,SAHARWI A.DM RP,Unspecified Region,Unspecified Region,0.02
+170,SAMOA,East Asia (Oceania),Asia,4.28
+171,SAN MARINO,Unspecified Region,Unspecified Region,3.26
+172,SAO TOME,West Africa,Africa,0
+173,SAUDI ARAB,West Asia- GCC,Asia,30790.22
+174,SENEGAL,West Africa,Africa,914.22
+175,SERBIA,Other European Countries,Europe,47.07
+176,SEYCHELLES,East Africa,Africa,350.39
+177,SIERRA LEONE,West Africa,Africa,30.96
+178,SINGAPORE,ASEAN,Asia,24238.61
+179,SLOVAK REP,EU Countries,Europe,77.77
+180,SLOVENIA,EU Countries,Europe,295.75
+181,SOLOMON IS,East Asia (Oceania),Asia,0.02
+182,SOMALIA,East Africa,Africa,32.77
+183,SOUTH AFRICA,Southern African Customs Union (SACU),Africa,8560.18
+184,SOUTH SUDAN,Unspecified Region,Unspecified Region,41.29
+185,SPAIN,EU Countries,Europe,2233.96
+186,SRI LANKA DSR,South Asia,Asia,1658.55
+187,ST HELENA,West Africa,Africa,0.02
+188,ST KITT N A,Latin America,America,0.56
+189,ST LUCIA,Latin America,America,2.27
+190,ST VINCENT,Latin America,America,0
+191,STATE OF PALEST,Unspecified Region,Unspecified Region,0.3
+192,SUDAN,North Africa,Africa,178.93
+193,SURINAME,Latin America,America,20.98
+194,SWAZILAND,Southern African Customs Union (SACU),Africa,11.89
+195,SWEDEN,EU Countries,Europe,1966.77
+196,SWITZERLAND,European Free Trade Associatipn (EFTA),Europe,24266.13
+197,SYRIA,Other West Asia,Asia,21.37
+198,TAIWAN,NE Asia,Asia,8879.75
+199,TAJIKISTAN,CARs Countries,Asia,0.79
+200,TANZANIA REP,East Africa,Africa,3602.61
+201,THAILAND,ASEAN,Asia,16426.79
+202,TIMOR LESTE,East Asia (Oceania),Asia,0.23
+203,TOGO,West Africa,Africa,851.27
+204,TOKELAU IS,Unspecified Region,Unspecified Region,0.08
+205,TRINIDAD,Latin America,America,118.57
+206,TUNISIA,North Africa,Africa,151.33
+207,TURKEY,Other European Countries,Europe,2342.3
+208,TURKMENISTAN,CARs Countries,Asia,186.3
+209,TURKS C IS,Latin America,America,0.19
+210,U ARAB EMTS,West Asia- GCC,Asia,63888.81
+211,U K,Other European Countries,Europe,11666.69
+212,U S A,North America,America,53453.22
+213,UGANDA,Central Africa,Africa,42.33
+214,UKRAINE,Other CIS Countries,Asia,850.67
+215,UNSPECIFIED,Unspecified Region,Unspecified Region,393.01
+216,URUGUAY,Latin America,America,289.55
+217,US MINOR OUTLYING ISLANDS,Unspecified Region,Unspecified Region,6.57
+218,UZBEKISTAN,CARs Countries,Asia,14.64
+219,VANUATU REP,East Asia (Oceania),Asia,0.89
+220,VATICAN CITY,Unspecified Region,Unspecified Region,0.07
+221,VENEZUELA,Latin America,America,468.92
+222,VIETNAM SOC REP,ASEAN,Asia,11614.36
+223,VIRGIN IS US,Latin America,America,0.31
+224,YEMEN REPUBLC,Other West Asia,Asia,105.65
+225,ZAMBIA,Other South African Countries,Africa,236.38
+226,ZIMBABWE,Other South African Countries,Africa,9.59
