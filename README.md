@@ -11,10 +11,8 @@ Owner: Ministry of Commerce and Industry. Government of India
 Raw excel files downloaded are inside the Data --> raw folder. You can download same data from the website. Data used are Country Wise, Commodity Wise, All commodities country wise,
 Country wise all commodities, Region wise all countries. 
 
-Website contains data of last 8 years but this project just uses 2025-2026 import data. And constraint is that there are more then 200 countries and each has a separate data file.
-But top 59 countries from India imports more than $1 Billion worth of commodities and represent more than 90% of all the imports. So total imports stand at around $775 Biilion. 
-And 59 countries account to around $750+ Billion. So, all 200+ country were not included and only data of 59 countries was used. And 
-those countries each account to more than $1 Billion in yearly trade. 
+Website contains data of last 8 years, but this project just uses 2025-2026 import data. And another constraint is that there are 226 countries and each has a separate data file.
+And among those 226 countries top 59 countries export commodities worth more than $1 Billion to India and represent more than 90% of all the imports. So total imports stand at around $775 Billion and 59 countries account to around $750+ Billion. So, all 226 countries were not included and only data of 59 countries was used. Because those countries each account to more than $1 Billion in yearly trade. 
 
 Country names, Continent division, Region division used by this website is very different from what we see in real world. Example Australia is not another continent but part
 of Asia and so on. And China is not named as China it is named as CHINA P RP. Project tries to preserve the naming convention of commodities and countries used in the data by the government.
@@ -24,8 +22,7 @@ Pandas a python library is used for data cleaning purpose and 59 excel sheets of
 in the Notebooks folder with comments and can be referred. 
 
 ### Schema Design
-Star schema design was followed. Two-dimension tables dim_country and dim_commodity was created, and fact_imports tables was created. All the cleaned data files are present under Data --> Processed folder
-Diagram will be added here later. 
+Star schema design was followed. Two-dimension tables dim_country and dim_commodity was created, and fact_imports tables was created. All the cleaned data files are present under Data --> Processed folder. Diagram will be added here later. 
 
 ### Database
 PostgreSQL image is created and Docker is used to create a container where it is running locally. docker-compose.yaml file is present inside the Database folder for the PostgreSQL image. DBeaver an open-source Universal Database Manager is connected with the container running in docker. Internet search and AI can easily help with the setup. Schema was created first and then tables were loaded. SQL Scripts
