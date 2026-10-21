@@ -11,16 +11,16 @@ Owner: Ministry of Commerce and Industry. Government of India
 Raw excel files downloaded are inside the Data --> raw folder. You can download same data from the website. Data used are Country Wise, Commodity Wise, All commodities country wise,
 Country wise all commodities, Region wise all countries. 
 
-Website contains data for last 5 to 6 years but this project just uses 2025-2026 import data. And constraint is there are more then 200 countries and each has a separate data file.
-But top 59 countries from where India imports more than $1 Billion worth of commodities represent more than 90% of all the imports. So total imports stand at around $775 Biilion. 
-And 59 countries account to around $700 Billion. So rather than downloading 200+ files separately and then merging them this project only uses data of 59 countries. And 
-those countries account to more than $1 Billion in yearly trade. 
+Website contains data of last 8 years but this project just uses 2025-2026 import data. And constraint is that there are more then 200 countries and each has a separate data file.
+But top 59 countries from India imports more than $1 Billion worth of commodities and represent more than 90% of all the imports. So total imports stand at around $775 Biilion. 
+And 59 countries account to around $700 Billion. So, all 200+ country were not included and only data of 59 countries was used. And 
+those countries each account to more than $1 Billion in yearly trade. 
 
-Country names, Continent division, Region division used by this country is very different from what we see in real world. Example Australia is not another continent but part
+Country names, Continent division, Region division used by this website is very different from what we see in real world. Example Australia is not another continent but part
 of Asia and so on. And China is not named as China it is named as CHINA P RP. Project tries to preserve the naming convention of commodities and countries used in the data by the government.
 
 ### Data Cleaning
-Pandas a python library is used for data cleaning purpose and 50 excel sheets were merged together using power query feature available in excel. All the jupyter notebooks are present
+Pandas a python library is used for data cleaning purpose and 59 excel sheets of All commodity x Each Country were merged together using power query feature available in excel. All the jupyter notebooks are present
 in the Notebooks folder with comments and can be referred. 
 
 ### Schema Design
