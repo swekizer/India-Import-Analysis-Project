@@ -28,7 +28,7 @@ Star schema design was followed. Two-dimension tables dim_country and dim_commod
 Diagram will be added here later. 
 
 ### Database
-Docker image of PostgreSQL is used and DBeaver an open-source Universal Database Manager is used. Internet search and AI can easily help with the setup. Schema was created first and then tables were loaded. SQL Scripts
+PostgreSQL image is created and Docker is used to create a container where it is running locally. docker-compose.yaml file is present inside the Database folder for the PostgreSQL image. DBeaver an open-source Universal Database Manager is connected with the container running in docker. Internet search and AI can easily help with the setup. Schema was created first and then tables were loaded. SQL Scripts
 folder provides all the SQL Scripts used throughout the project.
 
 ### Business Question
