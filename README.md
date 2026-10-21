@@ -32,7 +32,7 @@ folder provides all the SQL Scripts used throughout the project.
 Project has answered around 10 to 15 business questions using SQL. A presentation file is present inside the project which shows the questions, queries, responses. (Currently under process)
 
 ### Power BI Report
-Project end goal was to provide a visual look into the data. For that free version of Power BI is used. 3 Page simple report. Power BI folder inside the project contains the report
+Project's end goal was to provide a visual look into the data. For that free version of Power BI is used. 3 Page simple report. Power BI folder inside the project contains the report
 in different formats.
 
 Content Below this line is AI generated. To provide better insight into what the project is. 
