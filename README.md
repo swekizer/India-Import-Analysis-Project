@@ -13,7 +13,7 @@ Country wise all commodities, Region wise all countries.
 
 Website contains data of last 8 years but this project just uses 2025-2026 import data. And constraint is that there are more then 200 countries and each has a separate data file.
 But top 59 countries from India imports more than $1 Billion worth of commodities and represent more than 90% of all the imports. So total imports stand at around $775 Biilion. 
-And 59 countries account to around $700 Billion. So, all 200+ country were not included and only data of 59 countries was used. And 
+And 59 countries account to around $750+ Billion. So, all 200+ country were not included and only data of 59 countries was used. And 
 those countries each account to more than $1 Billion in yearly trade. 
 
 Country names, Continent division, Region division used by this website is very different from what we see in real world. Example Australia is not another continent but part
@@ -68,15 +68,18 @@ An end-to-end data analysis of India's commodity-wise imports for FY 2025-26, bu
 
 **Page 1: Overview.** Total imports, top source countries, top product chapters, and the continent split.
 
-![Overview](images/01_overview.png)
+<img width="1421" height="811" alt="image" src="https://github.com/user-attachments/assets/374b3474-1a19-4a45-a8d7-ff1e1500be29" />
+
 
 **Page 2: Concentration risk.** Products where a single country supplies more than 60% of imports, shown as a table and as a scatter plot of import value against top-supplier share.
 
-![Concentration risk](images/02_concentration_risk.png)
+<img width="1421" height="811" alt="image" src="https://github.com/user-attachments/assets/7f96c3b9-76ac-4bfd-9c66-79ce554c377c" />
+
 
 **Page 3: Case study.** Who supplies batteries and flat panel display modules, with the recommendation.
 
-![Case study](images/03_case_study.png)
+<img width="1421" height="811" alt="image" src="https://github.com/user-attachments/assets/98c2b877-3a28-4d35-acbd-24a2ce1f8982" />
+
 
 ---
 
